@@ -1,4 +1,4 @@
-FROM alpine:3.14
+FROM alpine:3.11
 MAINTAINER Ecometrica <>
 
 ENV LANG C
